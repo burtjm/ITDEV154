@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\BubbleSortDemo\BubbleSortDemo\bin\Debug\BubbleSortDemo.exe.config
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\BubbleSortDemo\BubbleSortDemo\bin\Debug\BubbleSortDemo.exe
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\BubbleSortDemo\BubbleSortDemo\bin\Debug\BubbleSortDemo.pdb
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\BubbleSortDemo\BubbleSortDemo\obj\Debug\BubbleSortDemo.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\BubbleSortDemo\BubbleSortDemo\obj\Debug\BubbleSortDemo.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\BubbleSortDemo\BubbleSortDemo\obj\Debug\BubbleSortDemo.exe
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\BubbleSortDemo\BubbleSortDemo\obj\Debug\BubbleSortDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\QuickSort\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\Assignment7\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
