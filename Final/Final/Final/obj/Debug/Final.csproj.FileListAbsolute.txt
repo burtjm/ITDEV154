@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Final\Final\Final\bin\Debug\Final.exe.config
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Final\Final\Final\bin\Debug\Final.exe
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Final\Final\Final\bin\Debug\Final.pdb
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Final\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Final\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Final\Final\Final\obj\Debug\Final.exe
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Final\Final\Final\obj\Debug\Final.pdb
