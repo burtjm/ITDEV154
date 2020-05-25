@@ -10,8 +10,6 @@ namespace Assignment3
     {
         static void Main(string[] args)
         {
-            static void Main(string[] args)
-            {
                 int choice, data, k, x;
 
                 SingleLinkedList list = new SingleLinkedList();
@@ -34,17 +32,17 @@ namespace Assignment3
                     Console.WriteLine("12. Reverse the list");
                     Console.WriteLine("13. Bubble sort by exchanging data");
                     Console.WriteLine("14. Bubble sort by exchanging links");
-                    Console.WriteLine("15. MergeSort");
-                    Console.WriteLine("16. Insert Cycle");
-                    Console.WriteLine("17. Detect Cycle");
-                    Console.WriteLine("18. Remove Cycle");
-                    Console.WriteLine("19. Quit\n");
+           
+                    Console.WriteLine("15. Insert Cycle");
+                    Console.WriteLine("16. Detect Cycle");
+                    Console.WriteLine("17. Remove Cycle");
+                    Console.WriteLine("18. Quit\n");
 
                     Console.Write("Enter your choice : ");
 
                     choice = Convert.ToInt32(Console.ReadLine());
 
-                    if (choice == 19)
+                    if (choice == 18)
                         break;
 
                     switch (choice)
@@ -111,21 +109,19 @@ namespace Assignment3
                         case 14:
                             list.BubbleSortExLinks();
                             break;
+                
                         case 15:
-                            list.MergeSort();
-                            break;
-                        case 16:
                             Console.Write("Enter the element at which the cycle has to be inserted : ");
                             data = Convert.ToInt32(Console.ReadLine());
                             list.InsertCycle(data);
                             break;
-                        case 17:
+                        case 16:
                             if (list.HasCycle())
                                 Console.WriteLine("List has a cycle");
                             else
                                 Console.WriteLine("List does not have a cycle");
                             break;
-                        case 18:
+                        case 17:
                             list.RemoveCycle();
                             break;
                         default:
@@ -140,5 +136,4 @@ namespace Assignment3
     }
 
 
-    }
-}
+    

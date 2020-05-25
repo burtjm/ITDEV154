@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Assignment3\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Assignment3\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Assignment3\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\Owner\Desktop\Temporary Data Structures Folder\ITDEV154\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
